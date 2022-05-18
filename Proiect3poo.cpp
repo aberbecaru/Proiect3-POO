@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cmath>
 
-
 ///Template
 template <typename T> class Medii{
 public:
